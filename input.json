@@ -1,0 +1,17 @@
+[
+  {
+    "company_name": "Adyen",
+    "ticker": "ADYEN",
+    "reports_link": "https://investors.adyen.com/financials"
+  },
+  {
+    "company_name": "ASML Holding N.V.",
+    "ticker": "ASML",
+    "reports_link": "https://www.asml.com/en/investors/annual-report"
+  },
+  {
+    "company_name": "SAP SE",
+    "ticker": "SAP",
+    "reports_link": "https://www.sap.com/investors/en/financial-documents-and-events/reports-archive.html?sort=latest_desc&tag=language:english&tag=investor-relations:financial-reports/annual-report-20-f"
+  }
+]
